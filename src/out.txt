@@ -1,0 +1,1877 @@
+ratopati.com
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="https://npcdn.ratopati.com/media/setting/fav_WteZzVu6I7.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="https://npcdn.ratopati.com/media/setting/fav_WteZzVu6I7.png" />
+<title>            सप्तरीमा बलात्कार आरोपमा ३५ वर्षीय पुरुष पक्राउ |
+         News from Nepal - Ratopati</title>
+<meta name="keywords" content="Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal." />
+<meta name="description" content="Ratopati is Best Online Nepali news portal for Politics, Opinions, Sports, Entertainment, Corporate, English news, Blogs and other news from Nepal." />
+<meta property="og:url" content="https://www.ratopati.com/story/170738" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="सप्तरीमा बलात्कार आरोपमा ३५ वर्षीय पुरुष पक्राउ" />
+<meta property="og:description" content="सप्तरी । बलात्कार गरी गर्भवती बनाएको आरोपमा प्रहरीले विष्णुपुर गाउँपालिका&ndash;५ बोरियाका ३५ वर्षीय मोहम्मद रहमुल मियाँलाई आज पक्राउ गरेको छ ।&nbsp;आरोपितले २०७७ जेठ २६ गते बलात्कार गरी गर्भवती बनाएको भन्दै पीडितले जिल्ला प्रहरी कार्यालयमा गत असोज २९ गते उजूरी दिएको थियो । आफ्नो घरको कोठामा बसिरहेका बेला कोही नभएको मौका छोपी घर पसी मूल ढोका लगाई ओछयानमा लडाएर बलात्कार गरेको पीडितले बताए ।  पीडितले जिल्ला प्रशासन कार्यालयमा समेत २०७७ कात्तिक ३ गते उजूरी दिएकी थिइन् । जिल्ला प्रहरी कार्यालयले कात्तिक ४ गते उजूरी दर्ता गरे पनि पक्राउ नपरेका आरोपितलाई गाउँघरमै लुकेर बसेको अवस्थामा आज पक्राउ गरिएको जिल्ला प्रहरी कार्यालयका..." />
+<meta property="og:image" content="https://ratopatis.prixacdn.net/media/albums/arrest_pakrau_jail_m8uZwmgUab.jpg" />
+<meta content="1200" property="og:image:width" />
+<meta content="800" property="og:image:height" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="सप्तरीमा बलात्कार आरोपमा ३५ वर्षीय पुरुष पक्राउ" />
+<meta name="twitter:description" content="सप्तरी । बलात्कार गरी गर्भवती बनाएको आरोपमा प्रहरीले विष्णुपुर गाउँपालिका&ndash;५ बोरियाका ३५ वर्षीय मोहम्मद रहमुल मियाँलाई आज पक्राउ गरेको छ " />
+<meta property="twitter:image" content="https://ratopatis.prixacdn.net/media/albums/arrest_pakrau_jail_m8uZwmgUab.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@rato_pati">
+<meta name="twitter:creator" content="@rato_pati">
+<meta name="theme-color" content="#d12229">
+<meta name="google-site-verification" content="" />
+<meta property="fb:pages" content="555462847839908" />
+<meta property="fb:app_id" content="578287048887770" />
+<meta content="Nepali" name="language" />
+<meta content="info@ratopati.com" name="reply-to" />
+<meta content="Ratopati" name="copyright" />
+<meta content="" name="csrf">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700;800;900&family=Poppins:wght@200;300;400;600&display=swap">
+<link rel="stylesheet" href="/build/css/app.min.css?id=9393cc2e819c75d579ace3c6b73198c5">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QYT97X5SWX"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', 'G-QYT97X5SWX');
+        </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-33667903-1"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', 'UA-33667903-1');
+        </script>
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=63b0c00dcaf2ee001a714bb2&product=inline-share-buttons' async='async'></script>
+<style>
+        @media (max-width: 768px) {
+            .breaking-col iframe {
+                vertical-align: top;
+                height: auto !important;
+            }
+        }
+    </style>
+</head>
+<body class="landing-page" x-data="{ darkMode: localStorage.getItem('darkMode')=='true'} " :init="$watch('darkMode', val => localStorage.setItem('darkMode', val))" :class="{'dark': darkMode}">
+<div id="ratopati-app">
+<div class="dnn-skip-placeholder" data-position="news-detail-skip-ad"></div>
+<div class="sticky-header-adv text--center">
+<div class="dn-wrap">
+<div class="dn-container dnn-ad-placeholder" data-position="news-detail-header-sticky">
+</div>
+</div>
+</div>
+<div class="sticky-banner-adv text--center">
+<div class="dn-container dnn-ad-placeholder" data-position="news-detail-above-logo"></div>
+</div>
+<div class="backdrop"></div>
+<header class="header">
+<div class="dn-container">
+<div class="flex flex-middle flex-between flex-wrap">
+<div class="header-left">
+<a class="hamburger">
+<span></span>
+<span></span>
+<span></span>
+</a>
+<span class="date">
+शनिबार, ०९ बैशाख २०८०
+</span>
+</div>
+<div class="logo-wrap header-center">
+<a class="logo" href="https://www.ratopati.com">
+<img src="https://www.ratopati.com/build/img/logo.png" alt="logo">
+</a>
+</div>
+<div class="header-right">
+<login-action-buttons></login-action-buttons>
+<a href="javascript:void(0);" class="search-action ">
+<img src="https://www.ratopati.com/build/img/icon-search.png" alt="search">
+</a>
+<a href="https://english.ratopati.com" class="eng" target="_blank">
+ EN
+</a>
+<div class="theme-switcher">
+<input type="checkbox" id="themeSwitch">
+<label x-on:click="darkMode = !darkMode" class="toggle" for="themeSwitch">
+<div class="handle"></div>
+<div class="handle-icon handle--sun">
+<svg viewBox="0 0 16 16" fill="currentcolor" role="img" aria-labelledby="title-8812071124069258" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.5 11.465a3.482 3.482.0 01-1.596-.662L4.11 12.596a.5.5.0 01-.707-.707l1.793-1.793A3.482 3.482.0 014.535 8.5H2a.5.5.0 010-1h2.535a3.482 3.482.0 01.662-1.596L3.404 4.11a.5.5.0 01.707-.707l1.793 1.793A3.482 3.482.0 017.5 4.535V2a.5.5.0 011 0v2.535a3.482 3.482.0 011.596.662l1.793-1.793a.5.5.0 01.707.707l-1.793 1.793c.343.458.577 1.003.662 1.596H14a.5.5.0 110 1h-2.535a3.482 3.482.0 01-.662 1.596l1.793 1.793a.5.5.0 01-.707.707l-1.793-1.793a3.482 3.482.0 01-1.596.662V14a.5.5.0 11-1 0v-2.535z"></path>
+</svg>
+</div>
+<div class="handle-icon handle--moon">
+<svg viewBox="0 0 16 16" fill="currentcolor" role="img" aria-labelledby="title-5971296394189265" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.067 3.087a5 5 0 005.466 7.026A5 5 0 117.067 3.087z"></path>
+</svg>
+</div>
+</label>
+</div>
+</div>
+</div>
+</div>
+
+<div class="search-menu">
+<form class="search-menu__form  flex" action="https://www.ratopati.com/search">
+<input class="search-menu__input" placeholder="यहाँ टाईप गर्नुहोस् ..." value="" name="query">
+<button type="submit" class="search-menu__submit">
+<svg xmlns="http://www.w3.org/2000/svg" width="20.001" height="20" viewBox="0 0 20.001 20">
+<g id="search_5_" data-name="search (5)" transform="translate(8.751 0.751)">
+<path id="Union_13" data-name="Union 13" d="M-3477.144,8975.463l5.287,5.287Zm-13.215-5.558a7.657,7.657,0,0,1,7.656-7.656,7.655,7.655,0,0,1,7.653,7.656,7.655,7.655,0,0,1-7.653,7.653A7.657,7.657,0,0,1-3490.358,8969.905Z" transform="translate(3482.357 -8962.25)" fill="none" stroke="#1d1d1d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path>
+</g>
+</svg>
+</button>
+</form>
+</div>
+
+</header>
+<nav class="site__navigation">
+<div class="dn-container">
+<div class="site__navigation--holder">
+<div class="site__navigation--left">
+<ul>
+<li class="">
+<a href="https://www.ratopati.com/">
+<i class="zmdi zmdi-home"></i> </a>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/category/news">
+समाचार </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/court-office">
+अदालत/प्रशासन
+ </a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/crime">
+सुरक्षा/अपराध
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/headline-news">
+हेडलाइन
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/category/ratopati-special">
+रातोपाटी स्पेसल </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/downloads">
+डाउनलाेड
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://bagmati.ratopati.com">
+प्रदेश </a>
+<div class="megamenu">
+<div class="dn-container">
+<div class="dn-grid">
+<div class="dn-vertical-nav col3">
+<ul class="pradesh-col">
+<li data-tab="कोशी-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://koshi.ratopati.com" data-text="कोशी प्रदेश">कोशी प्रदेश</a>
+</span>
+</li>
+<li data-tab="मधेस-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://madhesh.ratopati.com" data-text="मधेस प्रदेश">मधेस प्रदेश</a>
+</span>
+</li>
+<li data-tab="बागमती-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://bagmati.ratopati.com" data-text="बागमती प्रदेश">बागमती प्रदेश</a>
+</span>
+</li>
+<li data-tab="गण्डकी-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://gandaki.ratopati.com" data-text="गण्डकी प्रदेश">गण्डकी प्रदेश</a>
+</span>
+</li>
+<li data-tab="लुम्बिनी-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://lumbini.ratopati.com" data-text="लुम्बिनी प्रदेश">लुम्बिनी प्रदेश</a>
+</span>
+</li>
+<li data-tab="कर्णाली-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://karnali.ratopati.com" data-text="कर्णाली प्रदेश">कर्णाली प्रदेश</a>
+</span>
+</li>
+<li data-tab="सुदूरपश्चिम-प्रदेश" class="">
+<span class="hover-flip-item">
+<a href="https://sudurpashchim.ratopati.com" data-text="सुदूरपश्चिम प्रदेश">सुदूरपश्चिम प्रदेश</a>
+</span>
+</li>
+</ul>
+</div>
+<div class="dn-vertical-nav-content col9">
+<div id="कोशी-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358815/biratnagar-jhadap">
+<img src="https://npcdn.ratopati.com/media/news/padam-limbu-dead-body-pradrasan-(8)_pFwzbWCYqn.jpg" alt="८१ राउन्ड अश्रुग्याँस प्रहार, आन्दोलनकारीले पेट्रोल बम प्रहार गरेको प्रहरीको दाबी">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+८१ राउन्ड अश्रुग्याँस प्रहार, आन्दोलनकारीले पेट्रोल बम प्रहार गरेको प्रहरीको दाबी
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358802/biratnagar-jhadap">
+<img src="https://npcdn.ratopati.com/media/news/biratnagar-jhadap2_QjCfFwTXxp.jpg" alt="पदम लिम्बूको शव प्रदर्शनका क्रममा विराटनगरमा झडप">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+पदम लिम्बूको शव प्रदर्शनका क्रममा विराटनगरमा झडप
+</h3>
+ </div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358795/namaj-morang">
+<img src="https://npcdn.ratopati.com/media/news/namaj-morang_Jx3jDUODrH.jpg" alt="मोरङमा पनि  हर्षोल्लासका साथ मनाइयो इदुलफित्र">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मोरङमा पनि हर्षोल्लासका साथ मनाइयो इदुलफित्र
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358793/mangalbare-parabari-road-kalopatre">
+<img src="https://npcdn.ratopati.com/media/news/kalopatre_zN1MsKQtdh.jpg" alt="मङ्गलबारे–पाराबारी जोड्ने सकड कालोपत्र">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मङ्गलबारे–पाराबारी जोड्ने सकड कालोपत्र
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://koshi.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="मधेस-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358824/arrest">
+<img src="https://npcdn.ratopati.com/media/news/rajib-jha_NC4ddJL2ib.jpg" alt="दाइजोका कारण श्रीमतीको शरीरमा आगो लगाउने पुरुष पक्राउ">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+दाइजोका कारण श्रीमतीको शरीरमा आगो लगाउने पुरुष पक्राउ
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358818/election-comission-">
+<img src="https://npcdn.ratopati.com/media/news/upnirwachan_X2noj8wA5B.jpg" alt="मौन अवधिमा जनमत पार्टीले फर्जी मतपत्र बाँडेको जसपा र एमालेको आरोप">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मौन अवधिमा जनमत पार्टीले फर्जी मतपत्र बाँडेको जसपा र एमालेको आरोप
+ </h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358812/krisi-mahotsab">
+<img src="https://npcdn.ratopati.com/media/news/fruits_RW0wPMOENQ.jpg" alt="मधेश प्रदेशमा डेरी, कृषि तथा औजार प्रदर्शनी हुने">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मधेश प्रदेशमा डेरी, कृषि तथा औजार प्रदर्शनी हुने
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358811/nepal-train-taskari">
+<img src="https://npcdn.ratopati.com/media/news/gutkha-taskari_zynwg2atDw.jpg" alt="नेपाल रेल्वेबाट दैनिक लाखौंको कपडा र गुट्खा तस्करी">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+नेपाल रेल्वेबाट दैनिक लाखौंको कपडा र गुट्खा तस्करी
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://madhesh.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="बागमती-प्रदेश" class="dn-vertical-inner active">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358855/bhaktapur-tourist">
+<img src="https://ratopatis.prixacdn.net/media/albums/bhaktpur_V9SicrEkBz.JPG" alt="भक्तपुरमा पर्यटक आगमन बढ्यो, ९ महिनामा १३ करोड ४४ लाख शुल्क सङ्कलन">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+भक्तपुरमा पर्यटक आगमन बढ्यो, ९ महिनामा १३ करोड ४४ लाख शुल्क सङ्कलन
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358851/sunapati-developmen-program">
+<img src="https://npcdn.ratopati.com/media/news/sunapati_XQqdWaI4ct.png" alt="सुनापति गाउँपालिकाको विकास योजना बनाउन अन्तरक्रिया">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+सुनापति गाउँपालिकाको विकास योजना बनाउन अन्तरक्रिया
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358848/accident-ktm">
+<img src="https://npcdn.ratopati.com/media/news/accident-durghatana-acc-cartoon_nRZRX5TBy7_ghOTEaKA0f.jpg" alt="राजधानीमा भएको दुर्घटनामा तीन जनाको मृत्यु">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+राजधानीमा भएको दुर्घटनामा तीन जनाको मृत्यु
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358843/volleyball-game-">
+<img src="https://npcdn.ratopati.com/media/news/army-volleyball-team_NJU0VgpSo6.jpg" alt="मेयर कप भलिबलमा आर्मी र न्युडायमण्ड विजयी">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मेयर कप भलिबलमा आर्मी र न्युडायमण्ड विजयी
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://bagmati.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="गण्डकी-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358854/devendra-paudel">
+<img src="https://ratopatis.prixacdn.net/media/albums/devendra_poudel_1_Hv0QBVLfBN.jpeg" alt="पुस्तक नपाउने समस्या अन्त्य भयो : देवेन्द्र पौडेल">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+पुस्तक नपाउने समस्या अन्त्य भयो : देवेन्द्र पौडेल
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358849/gandaki-pradesh-">
+<img src="https://ratopatis.prixacdn.net/media/albums/mukhyamantri-chair_by2IzGSC7A.jpg" alt="गण्डकीमा अब कसको नेतृत्वमा बन्छ नयाँ सरकार ?">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+गण्डकीमा अब कसको नेतृत्वमा बन्छ नयाँ सरकार ?
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358832/baglung-storm">
+<img src="https://npcdn.ratopati.com/media/news/baglung-pahiro_nsxFzOt9nx.jpg" alt="बागलुङमा बाढी पहिरो :  डेढ दशकमा ७५ जनाको मृत्यु, १६ अझै बेपत्ता">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+बागलुङमा बाढी पहिरो : डेढ दशकमा ७५ जनाको मृत्यु, १६ अझै बेपत्ता
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358819/khagraj-adhikari">
+<img src="https://npcdn.ratopati.com/media/news/khagraj-_CDCJ4o5AQf.png" alt="विश्वासको मत माग्दै मुख्यमन्त्री अधिकारीले भने– जनताले हामीलाई चिनेका छन्, गल्ती गरे दण्डित गर्छन्">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+विश्वासको मत माग्दै मुख्यमन्त्री अधिकारीले भने– जनताले हामीलाई चिनेका छन्, गल्ती गरे दण्डित गर्छन्
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://gandaki.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="लुम्बिनी-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358831/death-banke">
+<img src="https://npcdn.ratopati.com/media/news/corona-virus_IlBnebVsN4.jpg" alt="बाँकेमा कोभिडका कारण १ जनाको मृत्यु">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+बाँकेमा कोभिडका कारण १ जनाको मृत्यु
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358809/dhanabahadur-jogi-death">
+<img src="https://ratopatis.prixacdn.net/media/albums/dead-body-mrityu-laas_mbTGkSKGzK.jpg" alt="डढेलो निभाउने क्रममा गुल्मीमा थप १ जनाको मृत्यु">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+डढेलो निभाउने क्रममा गुल्मीमा थप १ जनाको मृत्यु
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358788/dadhelo-news">
+<img src="https://npcdn.ratopati.com/media/news/dadhelo-2_pihJHc1nUt.jpg" alt="बर्सेनि वन सखाप, भेटिँदैनन् दोषी">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+बर्सेनि वन सखाप, भेटिँदैनन् दोषी
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358780/rangashala">
+<img src="https://npcdn.ratopati.com/media/news/beljhundi-rangashala_wRG4H9lzUZ.webp" alt="बेलझुण्डी रङ्गशाला : निर्माण सम्पन्न भयो, हस्तान्तरण भएन">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+बेलझुण्डी रङ्गशाला : निर्माण सम्पन्न भयो, हस्तान्तरण भएन
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://lumbini.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="कर्णाली-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358840/karnali-pradesh-government">
+<img src="https://npratopaticdn.prixacdn.net/media/news/karnali_CWjmZy5Ari.jpg" alt="मुख्यमन्त्री शर्माको ‘हनिमुन पिरियड’ राजनीतिक उल्झनमै बित्यो">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+मुख्यमन्त्री शर्माको ‘हनिमुन पिरियड’ राजनीतिक उल्झनमै बित्यो
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358761/yogesh-bhattarai-interview">
+<img src="https://npcdn.ratopati.com/media/news/yogesh-bhattarai-(1)_eFk2hxE38V.jpg" alt="‘कर्णालीमा आउने स्रोत, साधन सीमित मान्छेहरूको हातमा छ’">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+‘कर्णालीमा आउने स्रोत, साधन सीमित मान्छेहरूको हातमा छ’
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358721/binodkumar-shah">
+<img src="https://npcdn.ratopati.com/media/news/saha_4pcDdEkL6d.jpg" alt="कर्णालीका पूर्व अर्थमन्त्री शाहले आफूखुसी २३ करोड बाँडेको माओवादी केन्द्रको निष्कर्ष">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+कर्णालीका पूर्व अर्थमन्त्री शाहले आफूखुसी २३ करोड बाँडेको माओवादी केन्द्रको निष्कर्ष
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358525/surkhet-minister">
+<img src="https://npcdn.ratopati.com/media/news/minister-surkhet_TtrZVQVo3i.png" alt="सुर्खेत १ बाट निर्वाचित तीनैजना मन्त्री !">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+सुर्खेत १ बाट निर्वाचित तीनैजना मन्त्री !
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://karnali.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+<div id="सुदूरपश्चिम-प्रदेश" class="dn-vertical-inner ">
+<div class="dn-grid">
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358836/singadalsing-dead-body">
+<img src="https://ratopatis.prixacdn.net/media/albums/dead-body-mrityu-laas_mbTGkSKGzK.jpg" alt="तुइनबाट खसेर बेपत्ता भण्डारीको शव भेटियो">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+तुइनबाट खसेर बेपत्ता भण्डारीको शव भेटियो
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+ <a href="https://www.ratopati.com/story/358830/darchula-tuin">
+<img src="https://ratopatis.prixacdn.net/media/albums/tuin_bAxFCRqSYv_9c7PpjgBei.jpg" alt="दार्चुलामा तुइनबाट खसेर एक पुरुष महाकालीमा बेपत्ता">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+दार्चुलामा तुइनबाट खसेर एक पुरुष महाकालीमा बेपत्ता
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358764/cricket-team">
+<img src="https://npratopaticdn.prixacdn.net/archive-media/cricket.jpg" alt="यु–१६ राष्ट्रिय क्रिकेट : सुदूरपश्चिमको टोली घोषणा">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+यु–१६ राष्ट्रिय क्रिकेट : सुदूरपश्चिमको टोली घोषणा
+</h3>
+</div>
+</a>
+</div>
+</div>
+<div class="col3">
+<div class="columnnews">
+<a href="https://www.ratopati.com/story/358735/tiger-kanchanpur">
+<img src="https://ratopatis.prixacdn.net/media/albums/tiger_11_Zou2TXcQVe.jpg" alt="बाघको आक्रमणमा परेकी महिलाको अवस्था अज्ञात">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+बाघको आक्रमणमा परेकी महिलाको अवस्था अज्ञात
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="text--right">
+<a href="http://sudurpashchim.ratopati.com" class="more">
+थप समाचार
+<i class="zmdi zmdi-arrow-right-top"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/economy">
+अर्थतन्त्र </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/artha-interview">
+अर्थ:अन्तरवार्ता
+</a>
+ </li>
+<li>
+<a href="https://www.ratopati.com/category/share-market">
+सेयर मार्केट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/bank">
+बैंक/बिमा
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/corporate">
+कर्पोरेट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/new-in-market">
+बजारमा नयाँ
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/opinion">
+विचार </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/blog">
+ब्लग
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/video">
+ टीभी </a>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/health">
+स्वास्थ्य </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/coronavirus">
+कोरोनाभाइरस
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/entertainment">
+मनोरञ्जन </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/model">
+मोडल/सेलिब्रेटी
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/sports">
+खेलकुद </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/sport-interview">
+खेलकुद अन्तरवार्ता
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/football">
+फुटबल
+</a>
+</li>
+ <li>
+<a href="https://www.ratopati.com/category/cricket">
+क्रिकेट
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com#">
+अन्य </a>
+<ul class="">
+<li>
+<a href="https://www.ratopati.com/category/international">
+विश्व
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/newspaper">
+पत्रपत्रिकाबाट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/education">
+शिक्षा
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/child-world">
+बालसंसार
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/interview">
+अन्तरवार्ता
+</a>
+ </li>
+<li>
+<a href="https://www.ratopati.com/category/literature">
+साहित्य
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/prawash">
+प्रवास
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="site__navigation--right">
+<div>
+<login-action-buttons></login-action-buttons>
+</div>
+<a href="https://www.ratopati.com/global" class="global">
+ग्लोबल
+</a>
+<a target="_blank" class="english" href="https://english.ratopati.com/">
+English
+</a>
+</div>
+</div>
+</div>
+</nav>
+
+<div class="trendingtag">
+<div class="dn-container">
+<div class="trendingtag-menu flex">
+<ul>
+<li>
+<a href="https://www.ratopati.com/tag/1175"># उपनिर्वाचन
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/2942"># कविता
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/28339"># एसीसी प्रिमियर कप
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/4842"># खगराज अधिकारी
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/1"># प्रचण्ड
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/117"># पक्राउ
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/1348"># रामचन्द्र पौडेल
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/tag/4757"># आमा
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div class="dn-login-form-wrap">
+<div class="flex">
+<div class="modal-form">
+<login></login>
+</div>
+</div>
+</div>
+
+
+<div class="dn-signup-form-wrap">
+<div class="flex">
+<div class="modal-form">
+<register></register>
+</div>
+</div>
+</div>
+
+<div class="dn-forgotPassword-form-wrap">
+<div class="flex">
+<div class="modal-form">
+<forgot-password></forgot-password>
+</div>
+</div>
+</div>
+<dashboard></dashboard>
+
+<div class="black-overlay"></div>
+
+<div class="responsive--nav" id="menu">
+<div class="mobile-logo text--center">
+<a href="https://www.ratopati.com">
+<img src="/build/img/logo.png" alt="logo">
+</a>
+</div>
+<form class="mobile-search" action="https://www.ratopati.com/search">
+<input class="search-menu__input" placeholder="यहाँ टाईप गर्नुहोस् ..." value="" name="query">
+<input type="submit" value="">
+</form>
+<div class="nav__inner">
+<nav class="nav-menu">
+<div>
+<ul>
+<li class="">
+<a href="https://www.ratopati.com/">
+<i class="zmdi zmdi-home"></i> </a>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/category/news">
+समाचार </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/court-office">
+अदालत/प्रशासन
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/crime">
+सुरक्षा/अपराध
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/headline-news">
+हेडलाइन
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/category/ratopati-special">
+रातोपाटी स्पेसल </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/downloads">
+डाउनलाेड
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://bagmati.ratopati.com">
+प्रदेश </a>
+<ul>
+<li>
+<a href="https://koshi.ratopati.com">
+कोशी प्रदेश
+</a>
+</li>
+<li>
+<a href="https://madhesh.ratopati.com">
+मधेस प्रदेश
+</a>
+</li>
+<li>
+<a href="https://bagmati.ratopati.com">
+बागमती प्रदेश
+</a>
+</li>
+<li>
+<a href="https://gandaki.ratopati.com">
+गण्डकी प्रदेश
+</a>
+</li>
+<li>
+<a href="https://lumbini.ratopati.com">
+लुम्बिनी प्रदेश
+</a>
+</li>
+<li>
+<a href="https://karnali.ratopati.com">
+कर्णाली प्रदेश
+</a>
+</li>
+<li>
+<a href="https://sudurpashchim.ratopati.com">
+सुदूरपश्चिम प्रदेश
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/economy">
+अर्थतन्त्र </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/artha-interview">
+अर्थ:अन्तरवार्ता
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/share-market">
+सेयर मार्केट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/bank">
+बैंक/बिमा
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/corporate">
+कर्पोरेट
+</a>
+</li>
+ <li>
+<a href="https://www.ratopati.com/category/new-in-market">
+बजारमा नयाँ
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/opinion">
+विचार </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/blog">
+ब्लग
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/video">
+टीभी </a>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/health">
+स्वास्थ्य </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/coronavirus">
+कोरोनाभाइरस
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/entertainment">
+मनोरञ्जन </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/model">
+मोडल/सेलिब्रेटी
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com/sports">
+खेलकुद </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/sport-interview">
+खेलकुद अन्तरवार्ता
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/football">
+फुटबल
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/cricket">
+क्रिकेट
+</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="https://www.ratopati.com#">
+अन्य </a>
+<ul>
+<li>
+<a href="https://www.ratopati.com/category/international">
+विश्व
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/newspaper">
+पत्रपत्रिकाबाट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/education">
+शिक्षा
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/child-world">
+बालसंसार
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/interview">
+अन्तरवार्ता
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/literature">
+साहित्य
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/prawash">
+प्रवास
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+
+
+<div class="fixed-tab">
+<a class="news-trigger btn-taja" href="javascript:void(0); ">
+<i class="zmdi zmdi-fire"></i>
+<span>ताजा</span>
+</a>
+<a class="news-trigger  btn-trending" href="javascript:void(0); ">
+<i class="zmdi zmdi-trending-up"></i>
+<span>लोकप्रिय</span>
+</a>
+<div class="fixed-tab-container">
+<button class="trigger-close zmdi zmdi-close"></button>
+<ul class="tabs">
+<li class="tab-link current" data-tab="tab-taja">ताजा</li>
+<li class="tab-link" data-tab="tab-trending">लोकप्रिय</li>
+</ul>
+<div id="tab-taja" class="tab-content current">
+ <div class="just-in-news list-news">
+<ul>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358857/weather">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">आइतवार पहाडी भू-भागका केही स्थानमा वर्षाको सम्भावना</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358856/president-poudel-health">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">राष्ट्रपति पौडेलको स्वास्थ्य अवस्थामा थप सुधार</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358855/bhaktapur-tourist">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">भक्तपुरमा पर्यटक आगमन बढ्यो, ९ महिनामा १३ करोड ४४ लाख शुल्क सङ्कलन</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358854/devendra-paudel">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">पुस्तक नपाउने समस्या अन्त्य भयो : देवेन्द्र पौडेल</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358853/mahabir-pun">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">स्वदेशी उत्पादनलाई दर्ता दिन चौतर्फी दबाब, महावीर पुनले लेखे– आन्दोलनको नेतृत्व म गर्छु</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358852/america-">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">अमेरिकामा फ्लुका कारण उन्नाइस हजारभन्दा बढीको मृत्यु</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358851/sunapati-developmen-program">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">सुनापति गाउँपालिकाको विकास योजना बनाउन अन्तरक्रिया</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358850/aayog-election-">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">निर्वाचन कानुनविपरीतका निर्णय खारेज गर्न आयोगको निर्देशन</h3>
+</div>
+</a>
+</li>
+</ul>
+<a class="btn" href="https://www.ratopati.com/latest-news">
+२४ घन्टाका ताजा अपडेट
+</a>
+</div>
+</div>
+<div id="tab-trending" class="tab-content">
+<div class="trending-sidebar list-news ">
+<ul>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358661/tiger-attack-">
+<span class="news-count">१.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+महिलालाई बाघले लगेपछि प्रहरीले ७ राउन्ड गोली चलायो
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358732/foreign-citizens-are-voters">
+<span class="news-count">२.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+विदेशी नागरिक नै मतदाता, कसरी प्राप्त भयो भोट हाल्ने अधिकार ?
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358736/ratopati-briefing">
+<span class="news-count">३.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+रातोपाटी ब्रिफिङ : बालेनलाई सर्वोच्चको आदेश, बञ्चरेडाँडाबाट अल्टिमेटम
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358796/elizabeth-taylor-life-story">
+<span class="news-count">४.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+एलिजाबेथ : विलासी जीवनको शौखिन, अचम्मको अन्तिम इच्छा, आँठौ श्रीमान् मजदुर थिए, छोडिन् १० करोड
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358651/prachanda-kp-oli-meeting">
+<span class="news-count">५.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+प्रचण्ड–ओली वार्ता : संसदीय समितिमा मिलेन ‘भागबण्डा’
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358740/gandaki">
+<span class="news-count">६.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+गण्डकीका मुख्यमन्त्रीले आज विश्वासको मत लिने, यस्तो छ प्रदेशसभाको अङ्कगणित
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358655/election-commission">
+<span class="news-count">७.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+उपनिर्वाचन : ‘मौन अवधि’ मा यसरी हुन्छ चलखेल
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358632/ddc">
+<span class="news-count">८.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+रातोपाटी समाचार प्रभाव : गाउँ-गाउँबाट दूध सङ्कलन गर्न डीडीसीलाई मन्त्री भुसालको निर्देशन
+</h3>
+ </div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+
+<span class="to-top trigger-close ">
+<i class="zmdi zmdi-chevron-up"></i>
+</span>
+
+<div class="full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-navigation-bar"></div>
+</div>
+<main>
+<section class="section news-detail-header-wrap">
+<div class="dn-container ">
+<div class="news-detail-header">
+<div>
+<h2 class="heading">
+सप्तरीमा बलात्कार आरोपमा ३५ वर्षीय पुरुष पक्राउ
+</h2>
+</div>
+</div>
+</div>
+</section>
+<section class="section-medium news-detail-landing">
+<div class="dn-container">
+<div class="flex flex-wrap">
+<div class="dn__news--wrap">
+<div class="flex flex-wrap">
+<div class="news-container">
+<div class="contentarea-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-title"></div>
+</div>
+<div class="post-detail">
+<div class="newsInfo flex flex-middle">
+<div class="user">
+<img src="https://ratopatis.prixacdn.net/media/RSS.jpg" alt="रासस">
+<a href="https://www.ratopati.com/author/12">
+रासस
+</a>
+</div>
+<div class="post-hour">
+<i class="zmdi zmdi-time text-black"></i>
+<span>आइतबार, २३ फागुन २०७७, १४ : २९</span>
+</div>
+</div>
+<div class="news-post-share">
+<div class="comment">
+<a class="comment-col" href="javascript:void(0)">
+<i class="zmdi zmdi-comments"></i>
+</a>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+</div>
+</div>
+<div class="full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-author"></div>
+</div>
+<figure class="featured-image">
+<img class="animate__animated animate__fast fadeIn" src="https://ratopatis.prixacdn.net/media/albums/arrest_pakrau_jail_m8uZwmgUab.jpg" alt="सप्तरीमा बलात्कार आरोपमा ३५ वर्षीय पुरुष पक्राउ">
+</figure>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-featured-image"></div>
+ </div>
+<div class="flex content-flex">
+<div class="post__detail-fixed">
+<div class="post-detail">
+<div class="newsInfo">
+<div class="user">
+<img src="https://ratopatis.prixacdn.net/media/RSS.jpg" alt="रासस">
+<a href="https://www.ratopati.com/author/12">
+रासस
+</a>
+</div>
+<div class="post-hour">
+<i class="zmdi zmdi-time text-black"></i>
+<span>आइतबार, २३ फागुन २०७७</span>
+</div>
+<bookmark-news :newsId="170738"></bookmark-news>
+<div class="comment">
+<a class="comment-col" href="javascript:void(0)">
+<i class="zmdi zmdi-comments"></i>
+</a>
+</div>
+<div class="sharethis-inline-share-buttons"></div>
+</div>
+</div>
+</div>
+<div class="news-contentarea">
+<div class="the-content">
+<p style="text-align: justify;">सप्तरी । बलात्कार गरी गर्भवती बनाएको आरोपमा प्रहरीले विष्णुपुर गाउँपालिका&ndash;५ बोरियाका ३५ वर्षीय मोहम्मद रहमुल मियाँलाई आज पक्राउ गरेको छ ।&nbsp;आरोपितले २०७७ जेठ २६ गते बलात्कार गरी गर्भवती बनाएको भन्दै पीडितले जिल्ला प्रहरी कार्यालयमा गत असोज २९ गते उजूरी दिएको थियो । आफ्नो घरको कोठामा बसिरहेका बेला कोही नभएको मौका छोपी घर पसी मूल ढोका लगाई ओछयानमा लडाएर बलात्कार गरेको पीडितले बताए ।</p>
+<p style="text-align: justify;">पीडितले जिल्ला प्रशासन कार्यालयमा समेत २०७७ कात्तिक ३ गते उजूरी दिएकी थिइन् । जिल्ला प्रहरी कार्यालयले कात्तिक ४ गते उजूरी दर्ता गरे पनि पक्राउ नपरेका आरोपितलाई गाउँघरमै लुकेर बसेको अवस्थामा आज पक्राउ गरिएको जिल्ला प्रहरी कार्यालयका प्रहरी नायब उपरीक्षक भुवनेश्वर प्रसाद साहले बताए । बलात्कारबाट गर्भवती बनेकी पीडितबाट राजविराजस्थित गजेन्द्रनारायण सिंह अस्पतालमा गत कात्तिक १५ गते छोराको जन्म भएको थियो ।</p>
+ </div>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-between-content-add-tag"></div>
+</div>
+<div class="related-tags">
+<a href="https://www.ratopati.com/tag/33">arrest
+</a>
+<a href="https://www.ratopati.com/tag/340">rape case
+</a>
+</div>
+</div>
+</div>
+<div class="reaction-wrap m-35 text--center ">
+<h2>
+खबर पढेर तपाईलाई कस्तो महसुस भयो ?
+</h2>
+<div class="flex reaction-emoji flex-middle flex-between flex-wrap">
+<reaction :news-id="170738" />
+</div>
+</div>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-reaction-block">
+</div>
+</div>
+<div id="all-comments" class="comment-list-wrap m-35">
+<h2 class="comment-title">
+प्रतिक्रिया
+</h2>
+<comment-form :newsId="170738"></comment-form>
+</div>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-comment-form">
+</div>
+</div>
+<news-comments-list :news-id="170738"></news-comments-list>
+<div class="about_author m-35"><h2 class="author-title">लेखकबाट थप</h2>
+<div class="flex">
+<div class="author_img">
+<img src="https://ratopatis.prixacdn.net/media/RSS.jpg" alt="रासस">
+</div>
+<div class="author_bio"><h6>रासस</h6>
+<p><p><em><strong><span style="color:#FF0000;">राष्ट्रिय समाचार समिति नेपालकाे&nbsp; सरकारी समाचार संस्था हाे ।</span></strong></em></p></p>
+<div class="author-social">
+</div>
+<a href="https://www.ratopati.com/author/12"><span class="text-link">लेखकबाट थप</span></a></div>
+</div>
+</div>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-author-list"></div>
+</div>
+<related-news :news-id="170738"></related-news>
+<div class="contentarea-adv full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-related-news"></div>
+</div>
+<read-this-too :news-id="170738"></read-this-too>
+</div>
+</div>
+</div>
+<div class="dn__side--add news-detail-overflow ">
+<div class="dn__side--add">
+<div class="sidebar-adv dnn-ad-placeholder" data-position="news-details-sidebar-above-recent-news"></div>
+</div>
+<div class="just-in-news list-news m-30">
+<h2 class="sidebar-news-title">
+<span class="zmdi zmdi-time"></span>भर्खरै
+</h2>
+<ul>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358857/weather">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">आइतवार पहाडी भू-भागका केही स्थानमा वर्षाको सम्भावना</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358856/president-poudel-health">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">राष्ट्रपति पौडेलको स्वास्थ्य अवस्थामा थप सुधार</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358855/bhaktapur-tourist">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">भक्तपुरमा पर्यटक आगमन बढ्यो, ९ महिनामा १३ करोड ४४ लाख शुल्क सङ्कलन</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358854/devendra-paudel">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">पुस्तक नपाउने समस्या अन्त्य भयो : देवेन्द्र पौडेल</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358853/mahabir-pun">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">स्वदेशी उत्पादनलाई दर्ता दिन चौतर्फी दबाब, महावीर पुनले लेखे– आन्दोलनको नेतृत्व म गर्छु</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358852/america-">
+<div class="thumbnail-content-wrap">
+<h3 class="news-title">अमेरिकामा फ्लुका कारण उन्नाइस हजारभन्दा बढीको मृत्यु</h3>
+</div>
+</a>
+</li>
+</ul>
+<div class="full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-sidebar-below-recent-news"></div>
+</div>
+</div>
+<div class="trending-sidebar list-news sticky   m-30">
+<h2 class="sidebar-news-title">
+<span class="zmdi zmdi-trending-up"></span> ट्रेन्डिङ
+</h2>
+<ul>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358661/tiger-attack-">
+<span class="news-count">१.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+महिलालाई बाघले लगेपछि प्रहरीले ७ राउन्ड गोली चलायो
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358732/foreign-citizens-are-voters">
+<span class="news-count">२.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+विदेशी नागरिक नै मतदाता, कसरी प्राप्त भयो भोट हाल्ने अधिकार ?
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358736/ratopati-briefing">
+<span class="news-count">३.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+रातोपाटी ब्रिफिङ : बालेनलाई सर्वोच्चको आदेश, बञ्चरेडाँडाबाट अल्टिमेटम
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358796/elizabeth-taylor-life-story">
+<span class="news-count">४.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+एलिजाबेथ : विलासी जीवनको शौखिन, अचम्मको अन्तिम इच्छा, आँठौ श्रीमान् मजदुर थिए, छोडिन् १० करोड
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358651/prachanda-kp-oli-meeting">
+<span class="news-count">५.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+प्रचण्ड–ओली वार्ता : संसदीय समितिमा मिलेन ‘भागबण्डा’
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358740/gandaki">
+<span class="news-count">६.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+गण्डकीका मुख्यमन्त्रीले आज विश्वासको मत लिने, यस्तो छ प्रदेशसभाको अङ्कगणित
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358655/election-commission">
+<span class="news-count">७.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+उपनिर्वाचन : ‘मौन अवधि’ मा यसरी हुन्छ चलखेल
+</h3>
+</div>
+</a>
+</li>
+<li>
+<a class="flex" href="https://www.ratopati.com/story/358632/ddc">
+<span class="news-count">८.</span>
+<div class="thumbnail-content-wrap">
+<h3 class="news-title news-title-small">
+रातोपाटी समाचार प्रभाव : गाउँ-गाउँबाट दूध सङ्कलन गर्न डीडीसीलाई मन्त्री भुसालको निर्देशन
+</h3>
+</div>
+</a>
+</li>
+</ul>
+<div class="full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-sidebar-below-trending-news"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="full-banner-adv">
+<div class="dn-container dnn-ad-placeholder" data-position="news-details-below-this-also-read"></div>
+</div>
+<section class="bg-shades you-missed-it mt-40 section-medium">
+<div class="dn-container">
+<div class="sec-title">
+<h2>
+छुटाउनुभयो कि ?
+</h2>
+</div>
+<div class="dn-grid ">
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357384/japan">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/college-student_iM2mUPcaEv.jpg" alt="  स्टुडेन्ट भिसामा जापान जाने ‘च्याप्टर क्लोज’">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+स्टुडेन्ट भिसामा जापान जाने ‘च्याप्टर क्लोज’
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357566/dorprasad-aryal-airport">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/dp-aryal_xiK5RWvJxC.jpg" alt="  राष्ट्रिय परिचयपत्र अमान्य भन्दै रास्वपाका उपसभापति विमानस्थलबाट फर्काइए">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+राष्ट्रिय परिचयपत्र अमान्य भन्दै रास्वपाका उपसभापति विमानस्थलबाट फर्काइए
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/356819/chakre-milan--">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/Milan-Chakre-_3G2kM49wfq.jpg" alt="  नेपालगन्जमा चक्रे मिनललाई 'एके- ४७' को सुरक्षा">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+नेपालगन्जमा चक्रे मिनललाई 'एके- ४७' को सुरक्षा
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357404/prakash-saput">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/Capture_L8KLhEHUWs.jpg" alt="  २४ घण्टा नबित्दै प्रकाश सपूतको गीत युटयुव ट्रेन्डिङको शीर्ष स्थानमा">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+२४ घण्टा नबित्दै प्रकाश सपूतको गीत युटयुव ट्रेन्डिङको शीर्ष स्थानमा
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/356825/arrest">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/arrest_MtXbcED2a2.png" alt="  हतियार प्रदर्शन गरेको आरोपमा चक्रे मिलनका ‘बडीगार्ड’ पक्राउ">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+हतियार प्रदर्शन गरेको आरोपमा चक्रे मिलनका ‘बडीगार्ड’ पक्राउ
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357527/even-nora-could-not-stop-herself-from-praising">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/nora_0gFijbYlV2.jpg" alt="  ‘साकी साकी’ मा नेपालीको डान्स देखेर नोरा पनि दङ्ग">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+‘साकी साकी’ मा नेपालीको डान्स देखेर नोरा पनि दङ्ग
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357440/ratopaticom">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/pradesh-portel_XbczKrvKUG.jpg" alt="  रातोपाटीको प्रदेश संस्करण थप परिष्कृतसहित पाठकको सेवामा">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+रातोपाटीको प्रदेश संस्करण थप परिष्कृतसहित पाठकको सेवामा
+</h3>
+</div>
+</a>
+</div>
+<div class="columnnews column-bg-white col3">
+<a href="https://www.ratopati.com/story/357528/puja-hegde-and-salman-dating-">
+<img class="dnnlazy animate__animated animate__fast fadeIn" data-src="https://npcdn.ratopati.com/media/news/9a581d5f-9d83-4d0b-b8f4-fb26d7-1200x870_J0CaTvGiZX.webp" alt="  सलमानसँग डेट गरिरहेकी छिन् पूजा ?">
+<div class="columnnews-wrap">
+<h3 class="news-title">
+सलमानसँग डेट गरिरहेकी छिन् पूजा ?
+</h3>
+</div>
+</a>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+<div class="dnn-cubical-placeholder"></div>
+<div class="stickycontent-adv" style="display: none;">
+<span class=" trigger-close ">
+<i class="zmdi zmdi-close"></i>
+</span>
+<div class="dnn-ad-placeholder" style="height: 120px; width: 120px;" data-position="news-details-left-floating-image" data-limit="1"></div>
+</div>
+</div>
+<footer class="site-footer mt-40">
+<div class="first-footer ">
+<div class="dn-container">
+<div class="copyright-content dn-grid">
+<div class="col3">
+<ul>
+<li><strong> सूचना विभाग दर्ता नं:</strong> १९७/०७३-७४</li>
+<li><strong>Editor-in-Chief:</strong> Jiwendra Simkhada</li>
+<li><strong>Chairman:</strong> Bijaya Sharma</li>
+</ul>
+<h5 class="footer-heading">सम्पर्क</h5>
+<p>KUPONDOLE HEIGHT, LALITPUR<br>01-5010630, 01-5010671<br><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="85f7e4f1eaf5e4f1ecc5e2e8e4ece9abe6eae8">[email&#160;protected]</a>, <br><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="036a6d656c437162776c7362776a2d606c6e">[email&#160;protected]</a>, <br><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="dab7bba8b1bfaeb3b4bdf4a8bbaeb5aabbaeb39abdb7bbb3b6f4b9b5b7">[email&#160;protected]</a><br><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c2a3b0b6aba1aea7ecb0a3b6adb2a3b6ab82a5afa3abaeeca1adaf">[email&#160;protected]</a> <br><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e38291978b82cd9182978c9382978aa3848e828a8fcd808c8e">[email&#160;protected]</a></p>
+</div>
+<div class="col9">
+<h5 class="footer-heading">उपयोगी लिंकहरु</h5>
+<div class="quicklinks">
+<div>
+<ul>
+<li><a href="https://www.ratopati.com/page/%E0%A4%B9%E0%A4%BE%E0%A4%AE%E0%A5%8D%E0%A4%B0%E0%A5%8B-%E0%A4%9F%E0%A5%80%E0%A4%AE">
+हाम्रो टीम
+</a>
+</li>
+<li><a href="https://www.ratopati.com/page/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%AA%E0%A4%A8%E0%A4%95%E0%A5%8B-%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A4%BF">
+विज्ञापनको लागि
+</a>
+</li>
+<li><a href="https://www.ratopati.com/page/%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%95">
+सम्पर्क
+</a>
+</li>
+<li><a href="https://www.ratopati.com/page/give-feedback">
+Give Feedback
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/preeti-unicode-converter" target="_blank">
+Preeti Unicode Converter
+</a>
+</li>
+</ul>
+</div>
+<ul>
+<li>
+<a href="https://www.ratopati.com">
+गृहपृष्ठ
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/country">
+देश
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/economy">
+अर्थ
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/ratopati-special">
+रातोपाटी स्पेसल
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/entertainment">
+मनोरञ्जन
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/sports">
+खेलकुद
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/health">
+स्वास्थ्य शैली
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/ratopati-studio-video">
+रातोपाटी स्टुडियो
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/international">
+विश्व
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/education">
+शिक्षा
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/literature">
+साहित्य
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/science-technology">
+प्रविधि
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/cricket">
+क्रिकेट
+</a>
+</li>
+<li>
+<a href="https://www.ratopati.com/category/sport%20feature">
+खेलकुद फिचर
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="last-footer">
+<div class="dn-container">
+<div class="dn-grid">
+<div class="col9">
+ <div class="flex ">
+<div class="footer-logo ">
+<img src="https://www.ratopati.com/build/img/logo.png" alt="logo">
+</div>
+<div class="footer-info ">
+<p>
+© 2023 Copyright Discovery News Network | All rights reserved.
+<span>स्रोतहरू खुलाइएका बाहेक रातोपाटीमा प्रकाशित सम्पूर्ण सामग्रीहरू डिस्कवरी न्युज नेटवर्कका सम्पत्ति हुन् । </span>
+</p>
+</div>
+</div>
+</div>
+<div class="col3 ">
+<div class="social-media text--right">
+<a href="https://www.facebook.com/ratopati/" class="zmdi zmdi-facebook" target="_blank"> </a>
+<a href="https://twitter.com/Rato_pati" class="zmdi zmdi-twitter" target="_blank"> </a>
+<a href="https://www.youtube.com/@ratopatitv" class="zmdi zmdi-youtube-play" target="_blank"> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/template" id="dnn-adv-template">
+    <# if(data.promo.length) { #>
+    <div class="{{data.device}}-mode">
+        <# for ( var i=0; i < data.promo.length; i++ ) { #>
+        <div class="adv-item" data-adv-id="{{data.promo[i].id}}">
+            <# if(data.promo[i].script !== null){ #>
+            {{{ data.promo[i].script }}}
+            <# }else{ #>
+            <a target="_blank" href="{{data.promo[i].link}}">
+                <img class="animate__animated animate__fast fadeIn" src="{{data.promo[i].image}}"
+                     alt="{{data.promo[i].title}}">
+            </a>
+            <# } #>
+        </div>
+        <# } #>
+    </div>
+    <# } #>
+</script>
+<script type="text/template" id="dnn-skip-template">
+    <# if(data.promo.length){ #>
+    <section class="skip__banner-ad" x-data="{
+    hideBox(){
+        $('.skip__banner-ad').addClass('skip-ad-close');
+    }
+}">
+        <div class="dn-container">
+            <div class="site-logo">
+                <a href="https://www.ratopati.com">
+                    <img src="/build/img/logo-red.jpg" alt="logo">
+                </a>
+            </div>
+            <div class="skip-ad">
+                <button class="trigger-close zmdi zmdi-close" x-on:click="hideBox()"></button>
+                <div class="{{data.device}}-mode">
+                    <# for ( var i=0; i < data.promo.length; i++ ) { #>
+                    <div class="adv-item" data-adv-id="{{data.promo[i].id}}">
+                        <# if(data.promo[i].script !== null){ #>
+                        {{{ data.promo[i].script }}}
+                        <# }else{ #>
+                        <a target="_blank" href="{{data.promo[i].link}}">
+                            <img style="width: 70%" src="{{data.promo[i].image}}" alt="{{data.promo[i].title}}">
+                        </a>
+                        <# } #>
+                    </div>
+                    <# } #>
+                </div>
+            </div>
+        </div>
+    </section>
+    <# } #>
+</script>
+<script src="/build/js/app.min.js?id=e54d9170340c3d3c075927ade48c1b28"></script>
+<script src="//unpkg.com/alpinejs" defer></script>
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '607484354062429',
+            autoLogAppEvents: true,
+            xfbml: true,
+            version: 'v15.0'
+        });
+    };
+</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+<script type="text/javascript">
+            $('.the-content a>img, .the-content p>img, .the-content img').each(function () {
+                $(this).removeAttr('height');
+            });
+        </script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7bbf14c35b3b9e7a',m:'tWmc8h.2knrgQ7D2EzcpQQCRcDlBvFODtiTnQyIzvYA-1682179241-0-AUk7yogrVzG4bJAPrfsAf6dwfh5jGxHi2RWxnJ441cUz',u:'/cdn-cgi/challenge-platform/h/g'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7bbf14c35b3b9e7a","version":"2023.3.0","b":1,"token":"39915c68b19f42aa98d08f19794b0425","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+Regex Not working
