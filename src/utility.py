@@ -1,32 +1,27 @@
 import pandas as pd
 import requests
-import json
-import re
 import csv
 import validators
 import os
-from collections import Counter
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from nepalitokanizer import NepaliTokenizer
 import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 from bs4 import BeautifulSoup
-from config import khabarhub_re
+import configparser
 
-domain_regex = re.compile(r'''^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n]+)''')
-paragraph_regex = re.compile(r'''<p.*?>(.*?)</p>''', re.DOTALL | re.MULTILINE)
+config = configparser.ConfigParser()
+config.read(os.path.join('..', 'config_json', 'news_tags.ini'))
 
 def read_news_csv(_path):
     news_df = pd.read_csv(_path)
-    news_df = news_df['Source'].dropna()
-    endpoints = news_df.to_list()
-    return endpoints
-
-def read_url_json(_path):
-    with open(_path, 'r') as json_file:
-        url_frequency_dict = json.load(json_file)
-    return url_frequency_dict
+    date_df = news_df['Publication Date']
+    endpoint_df = news_df['Source'].dropna()
+    endpoints = endpoint_df.to_list()
+    date = date_df.to_list()
+    _list = list(zip(date, endpoints))
+    return _list
 
 def create_request_session():
     # Disable InsecureRequestWarning
@@ -49,58 +44,54 @@ def create_request_session():
     return session
 
 
-def make_request(endpoint, session, writer):
+def make_request(date, endpoint, session, domain, writer):
     response = session.get(endpoint)
     # Check the response status code
     if response.status_code == 200:
         # response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
-        title = soup.find('h1')
-        div_container = soup.find('div', {'class': 'page__body page__body--post'})
-        p_element = div_container.find_all('p')
-        content = ','.join([paragraph.get_text() for paragraph in p_element])
-        date_container = soup.find('footer', {'class': 'page__footer mb-3'})
-        date = date_container.find('div', {'class': ''})
-        writer.writerow({
-            'DATE': date.text,
-            'TITLE': title.text,
-            'MAIN_NEWS': content,
-            'SOURCE_URL': endpoint
-        })
-        print("Request was successful")
+        header_tag = config[domain]['header_tag']
+        body_tag = config[domain]['body_tag']
+        body_class = config[domain]['body_class']
+        # title = soup.find(header_tag)
+        div_class = soup.find('div', {'class': 'article-header'})
+        title = div_class.find('h1')
+
+        if not title:
+            title = "SEE TITLE IN LINK"
+        try:
+            title = title.text.strip()
+            div_container = soup.find(body_tag, {'class': body_class})
+            content = ''
+            if div_container:
+                p_element = div_container.find_all('p')
+                for p in p_element:
+                    content += p.text.strip() + ' '
+            content = content.replace('\n', '')
+            content = content.replace(' ', '')
+            title = title.replace('\n', '')
+        except AttributeError:
+            print("No Div" )
+            print(endpoint)
+        else:
+            writer.writerow({
+                'DATE': date,
+                'TITLE': title,
+                'MAIN_NEWS': content,
+                'SOURCE_URL': endpoint
+            })
+            print("Request was successful")
     else:
         print(endpoint)
         print("Request failed")
 
-
-def get_max(url_frequency_dict):
-    max_key = max(url_frequency_dict, key=lambda k: url_frequency_dict[k])
-    url_frequency_dict.pop(max_key, None)
-    return max_key
-
-def create_freq_json(endpoints):
-    domains = []
-    for string in endpoints:
-        match = domain_regex.search(string)
-        if match:
-            domains.append(match.groups(0))
-    url_frequency_dict = dict(Counter(domains))
-    automate_dict = { k[0]: v for k, v in url_frequency_dict.items() if v > 5}
-    manual_dict = { k[0]: v for k, v in url_frequency_dict.items() if v <= 5}
-    with open(os.path.join('..', 'config_json', 'automate_url_frequency.json'), mode='w') as json_file:
-        json.dump(automate_dict ,json_file)
-    with open(os.path.join('..', 'config_json', 'manual_url_frequency.json'), mode='w') as json_file:
-        json.dump(manual_dict ,json_file)
-
-def phase_2(endpoints):
+def run(valid_date_endpoints, domain):
     # PHASE 2 BEGIN
     session = create_request_session()
-    with open(os.path.join('..', 'config_json', 'automate_url_frequency.json'), 'r') as j_file:
-        url_frequency_dict = json.load(j_file)
-    domain = get_max(url_frequency_dict)
-    print(domain)
-    required_endpoints = [end for end in endpoints if domain in end]
-    with open('output.csv', mode='w', newline='') as csv_file:
+    required_date_endpoints = [(date, url) for date, url in valid_date_endpoints if domain in url]
+    with open('output.csv', mode='a+', newline='') as csv_file:
+        
+        
         
         # Define the header row
         fieldnames = ['DATE', 'TITLE', 'MAIN_NEWS', 'SOURCE_URL']
@@ -110,18 +101,16 @@ def phase_2(endpoints):
         
         # Write the header row
         writer.writeheader()
-        for end in required_endpoints:
-            make_request(end, session, writer)
+        for date, end in required_date_endpoints:
+            make_request(date, end, session, domain, writer)
             # break
-        # Write some data rows
     # PHASE 2 END
 
 if __name__=='__main__':
-    
-    endpoints = read_news_csv(os.path.join('..','news.csv'))
-    endpoints = [end for end in endpoints if validators.url(end)]
-    # create_freq_json(endpoints)
-    
-    # print("URL FRQUENCY JSON CREATED")
-    
-    phase_2(endpoints)
+    date_endpoints = read_news_csv(os.path.join('..','news.csv'))
+    valid_date_endpoints = [(date, url) for date, url in date_endpoints if validators.url(url)]
+    domains = config.sections()
+    for domain in domains:
+        print(domain)
+        run(valid_date_endpoints, domain)
+        break
