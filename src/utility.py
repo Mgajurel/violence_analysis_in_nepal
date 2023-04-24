@@ -48,14 +48,16 @@ def make_request(date, endpoint, session, domain, writer):
     response = session.get(endpoint)
     # Check the response status code
     if response.status_code == 200:
-        # response.encoding = 'utf-8'
+        response.encoding = 'utf-8'
         soup = BeautifulSoup(response.text, 'html.parser')
         header_tag = config[domain]['header_tag']
         body_tag = config[domain]['body_tag']
         body_class = config[domain]['body_class']
-        # title = soup.find(header_tag)
-        div_class = soup.find('div', {'class': 'article-header'})
-        title = div_class.find('h1')
+        title = soup.find(header_tag)
+        # div_class = soup.find('div', {'class': 'nws__title--card'})
+        # title = ''
+        # if div_class:
+        #     title = div_class.find('h2')
 
         if not title:
             title = "SEE TITLE IN LINK"
@@ -89,7 +91,7 @@ def run(valid_date_endpoints, domain):
     # PHASE 2 BEGIN
     session = create_request_session()
     required_date_endpoints = [(date, url) for date, url in valid_date_endpoints if domain in url]
-    with open('output.csv', mode='a+', newline='') as csv_file:
+    with open('output.csv', mode='w', newline='') as csv_file:
         
         
         
