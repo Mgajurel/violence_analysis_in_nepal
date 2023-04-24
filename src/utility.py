@@ -9,7 +9,10 @@ from collections import Counter
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from nepalitokanizer import NepaliTokenizer
-from config import ratopati_re
+import urllib3
+from urllib3.exceptions import InsecureRequestWarning
+from bs4 import BeautifulSoup
+from config import khabarhub_re
 
 domain_regex = re.compile(r'''^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n]+)''')
 paragraph_regex = re.compile(r'''<p.*?>(.*?)</p>''', re.DOTALL | re.MULTILINE)
@@ -26,20 +29,23 @@ def read_url_json(_path):
     return url_frequency_dict
 
 def create_request_session():
-    # Define the maximum number of retries
-    max_retries = 2
-    # Create a requests session object
+    # Disable InsecureRequestWarning
+    urllib3.disable_warnings(InsecureRequestWarning)
+
+    # Create a session object
     session = requests.Session()
-    # Define the retry strategy
+
+    # Create an HTTPAdapter object with retry strategy and SSL verification disabled
     retry_strategy = Retry(
-        total=max_retries,
+        total=2,
         status_forcelist=[429, 500, 502, 503, 504],
         allowed_methods=["GET"]
     )
-    # Mount the retry strategy to the requests session
-    adapter = HTTPAdapter(max_retries=retry_strategy)
-    session.mount("http://", adapter)
-    session.mount("https://", adapter)
+    adapter = HTTPAdapter(max_retries=retry_strategy, pool_connections=1, pool_maxsize=1, pool_block=True)
+    adapter.poolmanager.pool_classes_by_scheme['https'].verify = False
+    adapter.poolmanager.pool_classes_by_scheme['http'].verify = False
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
     return session
 
 
@@ -48,20 +54,20 @@ def make_request(endpoint, session, writer):
     # Check the response status code
     if response.status_code == 200:
         # response.encoding = 'utf-8'
-        find = ratopati_re.search(response.text)
-        if find:
-            title, date, content = find.group('title'), find.group('date'), find.group('main_news')
-            info = paragraph_regex.findall(content)
-            info = ' '.join(info)
-            writer.writerow({
-                'DATE': date,
-                'TITLE': title,
-                'MAIN_NEWS': info,
-                'SOURCE_URL': endpoint
-            })
-            print("Request was successful")
-        else:
-            print("Regex Not working")
+        soup = BeautifulSoup(response.text, 'html.parser')
+        title = soup.find('h1')
+        div_container = soup.find('div', {'class': 'page__body page__body--post'})
+        p_element = div_container.find_all('p')
+        content = ','.join([paragraph.get_text() for paragraph in p_element])
+        date_container = soup.find('footer', {'class': 'page__footer mb-3'})
+        date = date_container.find('div', {'class': ''})
+        writer.writerow({
+            'DATE': date.text,
+            'TITLE': title.text,
+            'MAIN_NEWS': content,
+            'SOURCE_URL': endpoint
+        })
+        print("Request was successful")
     else:
         print(endpoint)
         print("Request failed")
