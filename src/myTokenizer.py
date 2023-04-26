@@ -1,6 +1,7 @@
 from nepalitokanizer import NepaliTokenizer
 import argparse
 import pandas as pd
+from nepali_stemmer.stemmer import NepStemmer
 
 # parser defination
 parser = argparse.ArgumentParser(
@@ -12,7 +13,9 @@ CSV_PATH = args.csv
 
 def get_tokens(text):
     my_tokenzier = NepaliTokenizer()
-    cleaned_string = my_tokenzier.remove_special_characters(text)
+    stems = NepStemmer()
+    no_stem_text = stems.stem(text)
+    cleaned_string = my_tokenzier.remove_special_characters(no_stem_text)
     tokens = my_tokenzier.tokenizer(cleaned_string)
     return ','.join(tokens)
 
