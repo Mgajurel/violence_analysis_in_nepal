@@ -92,9 +92,6 @@ def run(valid_date_endpoints, domain):
     session = create_request_session()
     required_date_endpoints = [(date, url) for date, url in valid_date_endpoints if domain in url]
     with open('output.csv', mode='w', newline='') as csv_file:
-        
-        
-        
         # Define the header row
         fieldnames = ['DATE', 'TITLE', 'MAIN_NEWS', 'SOURCE_URL']
         
